@@ -1,7 +1,7 @@
 # services/users/project/__init__.py
 import os
 from flask import Flask, jsonify
-import sys
+
 
 # instantiate the app
 
