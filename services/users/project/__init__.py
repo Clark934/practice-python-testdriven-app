@@ -16,5 +16,5 @@ app.config.from_object('project.config.DevelopmentConfig')
 def ping_pong():
 	return jsonify({
 		'status': 'success',
-		'message': 'pong!!'
+		'message': 'pong!'
 		})
